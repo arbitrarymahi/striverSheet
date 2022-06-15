@@ -1,2 +1,2 @@
-# strverSheet
+# striverSheet
 for sde sheet solutions
