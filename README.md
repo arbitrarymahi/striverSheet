@@ -1,2 +1,2 @@
 # striverSheet
-for sde sheet solutions
+containS sde sheet solutions
